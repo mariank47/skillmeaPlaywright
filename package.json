@@ -4,14 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "allTests": "playwright test"
+    "allTests": "playwright test",
+    "prodTests": "ENV=prod playwright test",
+    "localTests": "ENV=local playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.36.1",
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.1.0",
     "allure-commandline": "^2.23.0",
     "allure-playwright": "^2.4.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }

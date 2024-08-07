@@ -1,0 +1,472 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2.580520029.1722954504",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1757514503.621299,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.746264756.1722954504",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1723040903,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-109033876-1",
+      "value": "1",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1722954563,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i",
+      "value": "3caca7ef-d435-4e12-86a5-5fbf56626b75|1722954504",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1754490504.566958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "4167857499267540365",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1738506506.277551,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wfivefivec",
+      "value": "LGnidsIh1SBlaN5",
+      "domain": ".w55c.net",
+      "path": "/",
+      "expires": 1757168906.175212,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "l3AZzwF2HDgQE0zDpydL_1722954505134",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1754490505.114531,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1722954505",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1754490505.114575,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "da0ee417-ecaa-4d33-b9ff-0c4f984cada9",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1756650505.122462,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "viewer_token",
+      "value": "2d597cc9-5a8a-4a58-b807-8f6a509ca579",
+      "domain": ".csync.loopme.me",
+      "path": "/",
+      "expires": 1730903305.122822,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "matchgoogle",
+      "value": "5",
+      "domain": ".w55c.net",
+      "path": "/",
+      "expires": 1725546506.175355,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".googleadservices.com",
+      "path": "/",
+      "expires": 1730730505.48938,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bito",
+      "value": "AAIV6k7NZGYAABT9-1gi5A",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1757068105.312284,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bitoIsSecure",
+      "value": "ok",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1757068105.312323,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "C",
+      "value": "1",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1725632905.37592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "139503845038957365",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1728138505.424271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmaD571NhQbotR2MIxhVwODpQjQtoLql_EUH2DQfGQ7OsMPHidEY_NlMILxWoI",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1757514505.427074,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=8c04addd23092e02:T=1722954504:RT=1722954504:S=ALNI_Mb7QuiAthVkPw1H2gVcvAmKSFv2ag",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1756650504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=00000e872d96ce0b:T=1722954504:RT=1722954504:S=ALNI_Ma7ZIZ-Vc19rSXBmDF7stOq2Cehnw",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1756650504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=eb9ec13ec9f6b6d2:T=1722954504:RT=1722954504:S=AA-AfjZalB3yhtMsT_yr2Tgc3zYg",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1738506504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TEST-COOKIE",
+      "value": "YES",
+      "domain": ".sync.inmobi.com",
+      "path": "/",
+      "expires": 1754490505.4906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "1",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1746281100.532482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "b32a4656e55bf062f1a53277f834f426",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1746281100.532537,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "b32a4656e55bf062f1a53277f834f426",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1746282505,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "value": "1723040905556",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1723040906,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "A4pPeNYk60MBnnASFVSjiQo",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1743517705.61127,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1757514505.61141,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "iid",
+      "value": "ID5-3-a9d06ffd-bdcd-4e35-85f8-f1920fa093ad",
+      "domain": ".sync.inmobi.com",
+      "path": "/",
+      "expires": 1754490505.619439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-82acd302-213b-42eb-7c3c-0485109055ed.U3x3h8%2BHteLKDWE6bawWwPbckx%2B2ZSSPVvMvtk3dB7k",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.669914,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-82acd302-213b-42eb-7c3c-0485109055ed.U3x3h8%2BHteLKDWE6bawWwPbckx%2B2ZSSPVvMvtk3dB7k",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.669958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3AgqzTAiE7Qut8PASFEJBV7Q.qKdxEQEVIgFWKQS5J9Wjfa%2BoX1nymmd%2FGEGL94g2D5A",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.67007,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3AgqzTAiE7Qut8PASFEJBV7Q.qKdxEQEVIgFWKQS5J9Wjfa%2BoX1nymmd%2FGEGL94g2D5A",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.670096,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIAFxQ3CN4fzDuNEvUjH4nflDX3Yn5YbH-lD-41iDeWNVELcBGAIgiebItQY6BBH4lxFCBIZAzJI.c98wZn1r6T0wON29a7HeC3f%2FX3fRCuH9IfGepDZno3o",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.670029,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIAFxQ3CN4fzDuNEvUjH4nflDX3Yn5YbH-lD-41iDeWNVELcBGAIgiebItQY6BBH4lxFCBIZAzJI.c98wZn1r6T0wON29a7HeC3f%2FX3fRCuH9IfGepDZno3o",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1754490505.67005,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6Im1pY2hhbGQiLCJwYXNzd29yZCI6IlBAc3N3MHJkIzgkRSEiLCJpYXQiOjE3MjI5NTQ1MDZ9.DNtY1Vhlq8MOa_OaaNjs-6OQTjnIAYKevG7-WkaCkq4",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "expires",
+      "value": "2024-08-13T14%3A28%3A26.558Z",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userID",
+      "value": "3b9a938d-9f7d-4ced-aea5-57d57562a3f9",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userName",
+      "value": "michald",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demoqa.com",
+      "localStorage": [
+        {
+          "name": "totalCalls",
+          "value": "0"
+        },
+        {
+          "name": "totalCallsTimeout",
+          "value": "0"
+        },
+        {
+          "name": "_cc_id",
+          "value": "b32a4656e55bf062f1a53277f834f426"
+        },
+        {
+          "name": "_GESPSK-crwdcntrl.net",
+          "value": "[\"crwdcntrl.net\",\"\",1722954505534,null,null,null,null,null,0]"
+        },
+        {
+          "name": "_GESPSK-33across.com",
+          "value": "[\"33across.com\",null,1722954504018,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-pubcid.org",
+          "value": "[\"pubcid.org\",null,1722954505292,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "33acrossId_csti",
+          "value": "6158203196586298:6158203196586298:6158203196586298:0"
+        },
+        {
+          "name": "__VASTUtil__",
+          "value": "__VASTUtil__"
+        },
+        {
+          "name": "lastSuccessfullAd",
+          "value": "0"
+        },
+        {
+          "name": "_cc_id_update_ts",
+          "value": "1722954505533"
+        },
+        {
+          "name": "panoramaId_expiry",
+          "value": "1723040905556"
+        },
+        {
+          "name": "panoramaId_expiry_exp",
+          "value": "1723040905556"
+        },
+        {
+          "name": "_GESPSK-esp.criteo.com",
+          "value": "[\"esp.criteo.com\",null,1722954504018,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-rtbhouse",
+          "value": "[\"rtbhouse\",null,1722954504321,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "_GESPSK-openx",
+          "value": "[\"openx\",\"eyJpIjoiUEt5bjc5UTFUaEtHcFYrL1ZtSnJkUT09In0=\",1722954504804,null,null,null,null,null,0]"
+        },
+        {
+          "name": "_GESPSK-uidapi.com",
+          "value": "[\"uidapi.com\",null,1722954504019,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-id5-sync.com",
+          "value": "[\"id5-sync.com\",null,1722954505046,null,null,null,null,null,0,[106]]"
+        },
+        {
+          "name": "goog:cached:topics",
+          "value": "[null,1722954504202,3]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1722954506610"
+        }
+      ]
+    }
+  ]
+}
